@@ -1,0 +1,92 @@
+#leb1{
+    -fx-text-fill:#7ddaf8;
+    -fx-font-size:20.0px;
+}
+#leb2{
+    -fx-text-fill:#7ddaf8;
+    -fx-font-size:18.0px;
+}
+#leb3{
+    -fx-text-fill:#7ddaf8;
+    -fx-font-size:18.0px;
+}
+#leb4{
+    -fx-text-fill:#7ddaf8;
+    -fx-font-size:18.0px;
+}
+ #leb{
+    -fx-text-fill:cyan;
+    -fx-font-size:30.0px;
+}
+#leb5{
+    -fx-text-fill:#ffffff;
+    -fx-font-size:18.0px;
+
+}
+#btn{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#btnAjouter{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#btnAnnuler{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#btnSupprimer{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#btnModifier{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+
+#btnDeconnecter{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#btnBack{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+    }
+#btnExit{
+    -fx-background-color:aquamarine;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#sign{
+    -fx-background-color:#7ddaf8;
+    -fx-font-size:15.0px;
+    -fx-border-radius:10;
+    -fx-background-radius: 10;
+}
+#er1{
+    -fx-text-fill:cyan;
+    -fx-font-size:30.0px;
+}
+#er2{
+    -fx-text-fill:cyan;
+    -fx-font-size:30.0px;
+}
+#er3{
+    -fx-text-fill:cyan;
+    -fx-font-size:30.0px;
+}
